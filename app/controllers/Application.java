@@ -13,7 +13,7 @@ static Form<Task> taskForm = form(Task.class);
   
   public static Result index() {
 	  
-    return ok("FourthPlayApp");
+    return ok("FivePlayApp");
   }
   
   public static Result tasks() {
